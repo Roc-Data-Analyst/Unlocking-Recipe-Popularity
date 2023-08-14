@@ -18,6 +18,6 @@ While the models reached impressive heights, none quite hit the ultimate thresho
 ## Fusing Data and Innovation
 This journey merges the art of culinary creativity with the precision of data science, forging a brighter path for heightened user engagement and satisfaction.
 
-Explore the full recipe of my journey on GitHub: [Repository Link](https://lnkd.in/gZJc6WJU). Stay tuned for more insights, innovations, and captivating data stories to come. Let's savor the flavors of knowledge together! 🍽️📚
+Explore the full recipe of my journey on GitHub: [Repository Link](https://github.com/Roc-Data-Analyst/Unlocking-Recipe-Popularity/blob/master/notebook.ipynb). Stay tuned for more insights, innovations, and captivating data stories to come. Let's savor the flavors of knowledge together! 🍽️📚
 
 #DataScience #MachineLearning #PredictiveAnalytics #RecipePopularity #CulinaryData #DataDrivenDecisions #PassionForData #Innovation
